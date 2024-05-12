@@ -1,0 +1,8 @@
+
+C:\Users\EmmanuelMirekuOmari\Documents\devops\lab2\target>"C:\Users\EmmanuelMirekuOmari\Downloads\apache-tomcat-10.1.20\apache-tomcat-10.1.20\bin\startup.bat"
+Using CATALINA_BASE:   "C:\Users\EmmanuelMirekuOmari\Downloads\apache-tomcat-10.1.20\apache-tomcat-10.1.20"
+Using CATALINA_HOME:   "C:\Users\EmmanuelMirekuOmari\Downloads\apache-tomcat-10.1.20\apache-tomcat-10.1.20"
+Using CATALINA_TMPDIR: "C:\Users\EmmanuelMirekuOmari\Downloads\apache-tomcat-10.1.20\apache-tomcat-10.1.20\temp"
+Using JRE_HOME:        "C:\Program Files\Java\jdk-17"
+Using CLASSPATH:       "C:\Users\EmmanuelMirekuOmari\Downloads\apache-tomcat-10.1.20\apache-tomcat-10.1.20\bin\bootstrap.jar;C:\Users\EmmanuelMirekuOmari\Downloads\apache-tomcat-10.1.20\apache-tomcat-10.1.20\bin\tomcat-juli.jar"
+Using CATALINA_OPTS:   ""
